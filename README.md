@@ -6,7 +6,7 @@ This page exists to demonstrate refactoring and consolidating abilities. A stron
 
 ## Description
 
-This page is a mock-up website for a marketing agency that has requested their code to be refactored in order to make the site more accessible. 
+This page is a mock-up website for a marketing agency that has requested their code to be refactored in order to make the site more accessible. The source code was given by an instructor and does not belong to me.
 
 ## Installation
 
