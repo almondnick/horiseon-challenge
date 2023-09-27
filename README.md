@@ -6,3 +6,22 @@ This page exists to demonstrate refactoring and consolidating abilities. A stron
 
 ## Description
 
+This page is a mock-up website for a marketing agency that has requested their code to be refactored in order to make the site more accessible. 
+
+## Installation
+
+N/A
+
+## Usage
+
+To use this site, you can view the newly refactored and consolidated code in Github or via ChromeDevTools. For comparison, a screenshot of the previous code has been inserted below this paragraph.
+
+## Contact
+
+Nick Almond - nickalmond14@gmail.com
+Project Link - https://github.com/almondnick/horiseon-challenge
+
+## Acknowledgments
+
+Many thanks to Brett Gaynor and Chris Pesar for their guidance for this project.
+
