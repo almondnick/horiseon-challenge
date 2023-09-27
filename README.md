@@ -30,5 +30,5 @@ Project Link - https://github.com/almondnick/horiseon-challenge
 
 ## Acknowledgments
 
-Many thanks to Brett Gaynor and Chris Pesar for their guidance for this project.
+Many thanks to Brett Gaynor and Chris Pesar for their guidance on this project.
 
